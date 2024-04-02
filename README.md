@@ -5,9 +5,9 @@ This project aims to analyze smart device data to gain insights into how women a
 
 ## Team Members 👩‍🔬
 
+- Tanvi Patil
 - Anusha Ananth Kirigere
 - Kruthi Kishore
-- Tanvi Patil
 
 ## Instructor 🎓
 
